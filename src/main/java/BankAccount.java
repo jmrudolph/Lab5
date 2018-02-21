@@ -27,6 +27,7 @@ public class BankAccount {
     private double interestEarned;
 
     public BankAccount(final String name, final BankAccountType accountCategory) {
+        System.out.println("OOPS");
         /*
          * Implement this function
          */
